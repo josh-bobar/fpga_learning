@@ -1,12 +1,12 @@
 # === Vivado-generated directories ===
-.cache/
-.hw/
-.ipcache/
-.sim/
-.srcs/
-.webtalk/
-.xpr/
-.xgui/
+*.cache/
+*.hw/
+*.ipcache/
+*.sim/
+*.srcs/
+*.webtalk/
+*.xpr/
+*.xgui/
 
 # Project-related junk
 *.jou
