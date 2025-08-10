@@ -1,0 +1,61 @@
+# === Vivado-generated directories ===
+.cache/
+.hw/
+.ipcache/
+.sim/
+.srcs/
+.webtalk/
+.xpr/
+.xgui/
+
+# Project-related junk
+*.jou
+*.log
+*.str
+*.opt
+*.tmp
+*.backup
+*.rpx
+*.xml
+*.html
+*.ltx
+*.mif
+*.bgn
+*.pb
+
+# Simulation artifacts
+*.wdb
+*.vcd
+
+# Checkpoints
+*.dcp
+*.check
+
+# Vivado databases and metadata
+vivado*.data/
+vivado*.runs/
+vivado*.ip_user_files/
+vivado*.gen/
+vivado*.sim/
+vivado*.cache/
+vivado*.webtalk/
+
+# Other
+*.dbg
+*.bin
+*.prj
+
+# === Keep these files ===
+!*.bit
+!*.vcd
+!*.wdb
+!README.md
+!src/**
+!sim/**
+!software/**
+!.gitignore
+!*.v
+!*.sv
+!*.vh
+!*.svh
+!*.vhdl
