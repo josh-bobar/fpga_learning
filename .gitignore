@@ -29,7 +29,6 @@
 *.sim
 *.srcs
 *.webtalk
-*.xpr
 *.xgui
 
 # Simulation artifacts
